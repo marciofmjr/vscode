@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Seti Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#000000",
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "sideBar.foreground": "#ffffff",
+        "sideBar.border": "#000000",
+        "sideBarTitle.foreground": "#ffffff",
+        "sideBarSectionHeader.background": "#000000",
+        "sideBarSectionHeader.foreground": "#ffffff",
+        "statusBar.background": "#000000",
+        "statusBar.noFolderBackground": "#000000",
+        "statusBar.noFolderForeground": "#ffffff",
+    },
+
+    "editor.fontSize": 13,
+    "editor.lineHeight": 32,
+    "editor.renderLineHighlight": "none",
+    "editor.detectIndentation": true,
+    "editor.minimap.enabled": false,
+    
+    "window.zoomLevel": 0,
+}
