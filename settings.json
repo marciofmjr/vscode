@@ -1,27 +1,27 @@
 {
-    "workbench.colorTheme": "Seti Monokai",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dark-Dracula",
+    "workbench.iconTheme": "eq-material-theme-icons",
     "workbench.startupEditor": "newUntitledFile",
-    
     "workbench.colorCustomizations": {
-        "activityBar.background": "#000000",
-        "editor.background": "#000000",
-        "sideBar.background": "#000000",
-        "sideBar.foreground": "#ffffff",
-        "sideBar.border": "#000000",
-        "sideBarTitle.foreground": "#ffffff",
-        "sideBarSectionHeader.background": "#000000",
-        "sideBarSectionHeader.foreground": "#ffffff",
-        "statusBar.background": "#000000",
-        "statusBar.noFolderBackground": "#000000",
-        "statusBar.noFolderForeground": "#ffffff",
+        "activityBar.background": "#111111",
+        "editor.background": "#111111",
+        "sideBar.background": "#111111",
+    //     "sideBar.foreground": "#ffffff",
+        "sideBar.border": "#111111",
+    //     "sideBarTitle.foreground": "#ffffff",
+        "sideBarSectionHeader.background": "#111111",
+    //     "sideBarSectionHeader.foreground": "#ffffff",
+        "statusBar.background": "#111111",
+        "statusBar.noFolderBackground": "#111111",
+    //     "statusBar.noFolderForeground": "#ffffff",
     },
-
+    // "editor.fontFamily": "Operator Mono",
     "editor.fontSize": 13,
     "editor.lineHeight": 32,
     "editor.renderLineHighlight": "none",
     "editor.detectIndentation": true,
     "editor.minimap.enabled": false,
-    
     "window.zoomLevel": 0,
+    "materialTheme.fixIconsRunning": false,
+    "editor.renderIndentGuides": false
 }
