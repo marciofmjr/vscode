@@ -9,6 +9,7 @@
 - Bracket Pair Colorizer
 - Sass
 - Color Highlight
+- Polacode
 
 ##### JS
 - ESLint
