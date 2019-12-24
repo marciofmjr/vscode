@@ -5,9 +5,15 @@
 - Beautify
 - GitLens - Git supercharged
 - Git Graph
-### javascript
+- Bookmarks
+- Bracket Pair Colorizer
+- Sass
+- Color Highlight
+
+##### JS
 - ESLint
-### php
+
+##### PHP
 - PHP intellisense
 
 ### Themes
@@ -21,7 +27,7 @@
 
 ## Fonts
 - Operator Mono
-- 
+- Firacode
 
 ## IDE style
 ![alt text](https://raw.githubusercontent.com/marciofmjr/vscode-settings/master/preview-ide.png)
