@@ -1,7 +1,27 @@
 # VS Code Settings
 
 ## Plugins
-![alt text](https://raw.githubusercontent.com/marciofmjr/vscode-settings/master/preview-plugins.png)
+- Sublime Text Keymap and Settings Importer
+- Beautify
+- GitLens - Git supercharged
+- Git Graph
+### javascript
+- ESLint
+### php
+- PHP intellisense
+
+### Themes
+- Monokai Pro
+- Styrokai++
+- Dracula
+
+## Icons
+- Material Icon Theme
+- Monokai Pro Icons
+
+## Fonts
+- Operator Mono
+- 
 
 ## IDE style
 ![alt text](https://raw.githubusercontent.com/marciofmjr/vscode-settings/master/preview-ide.png)
